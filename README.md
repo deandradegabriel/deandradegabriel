@@ -12,6 +12,6 @@ Tenho 18 anos e estou no meu segundo semestre da faculdade, adoro praticar espor
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## Valores
->_“Um passo por dia, até me tornar quem decidi ser."
+>“Um passo por dia, até me tornar quem decidi ser."
 
 O limite só é estabelecido por você, jamais deixe que alguém dizer que você não pode. Só você pode determinar até onde pode ir! 
