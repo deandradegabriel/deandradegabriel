@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá 👋, Sou Gabriel Leonardo
 
-<!--
-**deandradegabriel/deandradegabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Estudante de Engenharia de Software,** 🇧🇷 Brasil!
 
-Here are some ideas to get you started:
+Tenho 18 anos e estou no meu segundo semestre da faculdade, adoro praticar esportes, ler e aprender coisas novas. Estou começando no meio da programação, e tenho muito interesse na área de **banco de dados** e **back-end**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Ferramentas
+
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## Valores
+>_“Um passo por dia, até me tornar quem decidi ser."
+
+O limite só é estabelecido por você, jamais deixe que alguém dizer que você não pode. Só você pode determinar até onde pode ir! 
