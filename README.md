@@ -14,4 +14,4 @@ Tenho 18 anos e estou no meu segundo semestre da faculdade, adoro praticar espor
 ## Valores
 >“Um passo por dia, até me tornar quem decidi ser."
 
-O limite só é estabelecido por você, jamais deixe que alguém dizer que você não pode. Só você pode determinar até onde pode ir! 
+O limite só é estabelecido por você, jamais deixe alguém dizer que você não pode. Só você pode determinar até onde pode ir! 
