@@ -5,7 +5,7 @@
 Tenho 18 anos e estou no meu segundo semestre da faculdade, adoro praticar esportes, ler e aprender coisas novas. Estou começando no meio da programação, e tenho muito interesse na área de **banco de dados** e **back-end**.
 
 
-## 🛠️ Ferramentas
+## 🛠️ Ferramentas e Linguagens
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
